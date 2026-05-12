@@ -59,3 +59,8 @@ border-top:none;
 .botoes{
     display:block;
 }
+
+.ativo{
+    background-color: var(--botão-ativo);
+    border-botton:4px solid var(--verde);
+}
